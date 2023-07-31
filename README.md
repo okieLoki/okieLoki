@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native<br>👯 I’m looking to collaborate on DevOps<br>🤝 I’m looking for help with Data Structures & Algorithms<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Linux<br>⚡ Fun fact Linux is far superior 
+🔭 I’m currently working on AWS Serverless<br>👯 I’m looking to collaborate on DevOps<br>🤝 I’m looking for help with Data Structures & Algorithms<br>🌱 I’m currently learning Microservices<br>💬 Ask me about Linux<br>⚡ Fun fact I use arch btw 
 
 
 ## 🌐 Socials:
